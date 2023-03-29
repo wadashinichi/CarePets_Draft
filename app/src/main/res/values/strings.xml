@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CarePets_Draft</string>
+    // About us
+    <string name="app_developer">Nguyen Thi Tieu Tien
+ 21GIT
+ Vietnam - Korea University Of Information And Communication Technology
+    </string>
+    <string name="app_features">Care Pets is the mobile application that show you how to take care of your pets in the best way, and help help you manage routine job about Pets</string>
+    <string name="sign_up_ask">Don\'t have an account? Register</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="switch_remember">Remember your account?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="repeat_pass">Repeat password</string>
+    <string name="register_ask">Already Have An Account? Sign in.</string>
+</resources>
