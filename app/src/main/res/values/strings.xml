@@ -14,5 +14,10 @@
     <string name="register">Register</string>
     <string name="email">Email</string>
     <string name="repeat_pass">Repeat password</string>
-    <string name="register_ask">Already Have An Account? Sign in.</string>
+    <string name="login_ask">Already Have An Account? Sign in.</string>
+    // Home
+    <string name="pet_name">Name: %n</string>
+    <string name="pet_birth">Birth: %b</string>
+    <string name="pet_specify">Specify: %s</string>
+    <string name="pet_quantity">Quantity: %q</string>
 </resources>
