@@ -20,4 +20,6 @@
     <string name="pet_birth">Birth: %b</string>
     <string name="pet_specify">Specify: %s</string>
     <string name="pet_quantity">Quantity: %q</string>
+    // Search
+    <string name="search">Search...</string>
 </resources>
