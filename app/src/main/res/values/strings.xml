@@ -22,4 +22,6 @@
     <string name="pet_quantity">Quantity: %q</string>
     // Search
     <string name="search">Search...</string>
+    // note
+    <string name="plus">+</string>
 </resources>
