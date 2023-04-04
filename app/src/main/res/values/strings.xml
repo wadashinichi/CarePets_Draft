@@ -24,4 +24,5 @@
     <string name="search">Search...</string>
     // note
     <string name="plus">+</string>
+    <string name="save">Save</string>
 </resources>
